@@ -26,18 +26,8 @@ Static React web page deploy on S3
 
 ### Hosted On Amplify
 
+![Cloud Amlify](https://github.com/darjidhruv26/Static_Web_On_S3-Amplify/assets/90086813/9838ce24-f611-4ccc-8b06-abcdf41d5048)
+
 ![Amplify_Github](https://github.com/darjidhruv26/Static_Web_On_S3-Amplify/assets/90086813/ec74f155-a2b8-4dfd-9515-815fde9593fa)
 
 ![amplify_stages](https://github.com/darjidhruv26/Static_Web_On_S3-Amplify/assets/90086813/d0b03253-1210-4a57-ace7-7dfbd87d8b07)
-
-
-
-
-
-
-
-
-
-
-
-![Cloud Amlify](https://github.com/darjidhruv26/Static_Web_On_S3-Amplify/assets/90086813/9838ce24-f611-4ccc-8b06-abcdf41d5048)
